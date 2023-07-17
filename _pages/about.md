@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my homepage :)"
+title: "Welcome to my homepage :blush::deciduous_tree::sparkles:"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student at Mechanical Engineering, MIT. My research focuses on spatiotemporal behaviors in 3D multicellular systems, and how to use physical observation to indicate higher level biological functions. This website gives a brief introduction to me.
+I am currently a PhD student at Mechanical Engineering, MIT. My research focuses on spatiotemporal behaviors in 3D multicellular systems, and how these physical observations indicate higher level biological functions. This website gives a brief introduction to me.
 
 
 
