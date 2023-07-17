@@ -19,7 +19,7 @@ Education
 Work experience
 ======
 * 2019-present: Graduate Research Assistant
-  * MIT
+  * Massachusetts Institute of Technology
   * Project: From physics to biological functions: Spatiotemporal behaviors in multicellular systems
 
 * Summer 2017: Undergraduate Research Assistant
