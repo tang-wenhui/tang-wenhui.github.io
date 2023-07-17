@@ -11,12 +11,15 @@ redirect_from:
 I am currently a PhD student at Mechanical Engineering, MIT. My research focuses on spatiotemporal behaviors in 3D multicellular systems, and how to use physical observation to indicate higher level biological functions. This website gives a brief introduction to me.
 
 
-News
-----
-
 
 Research Interests
 ----
+1. Collective curvature sensing in 3D multicellular systems
+2. Cell packing and self-organization and their relationship with development and maturation
+3. Multicellular flow analysis in collective cell migration
+4. Cell-matrix interaction during development and differentiation
+5. Temporal behavior in oscillary epithelia
+
 
 
 
