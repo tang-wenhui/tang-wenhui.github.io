@@ -19,11 +19,11 @@ Work experience
 ======
 * 2019-present: Graduate Research Assistant
   * MIT
-  * Advisor: Ming Guo
+  * Project: From physics to biological functions: Spatiotemporal behaviors in multicellular system
 
 * Summer 2017: Undergraduate Research Assistant
   * The Hong Kong University of Science and Technology
-  * Project: Peroviskite Solar Cells
+  * Project: Peroviskite solar cells
 
 * 2016-2018: Undergraduate Research Assistant
   * Xi'an Jiaotong University
