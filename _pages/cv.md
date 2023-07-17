@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Xi'an Jiaotong University, 2018
+* B.Eng. in Xi'an Jiaotong University, 2018
 * M.S. in Mechanical Engineering, MIT, 2020
 * Ph.D in Mechanical Engineering, MIT, 2024 (expected)
 
