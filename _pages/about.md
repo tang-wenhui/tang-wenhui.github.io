@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my homepage :deciduous_tree:"
+title: "Welcome to my homepage :deciduous_tree::sparkles:"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
