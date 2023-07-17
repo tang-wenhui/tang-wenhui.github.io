@@ -27,32 +27,7 @@ Work experience
 
 * 2016-2018: Undergraduate Research Assistant
   * Xi'an Jiaotong University
-  * Projects: 1) Heat transfer optimization simulation
-  *           2) Droplets coalescence in microfluidic channels
-  
-Skills
-======
-* Skill 1
-* Skill 2
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  * Projects: 1) Heat transfer optimization simulation 2) Droplets coalescence in microfluidic channels
   
 Service and leadership
 ======
