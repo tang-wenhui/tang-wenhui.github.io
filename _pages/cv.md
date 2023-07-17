@@ -11,29 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Xi'an Jiaotong University, 2018
+* M.S. in Mechanical Engineering, MIT, 2020
+* Ph.D in Mechanical Engineering, MIT, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019-present: Graduate Research Assistant
+  * MIT
+  * Advisor: Ming Guo
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2017: Undergraduate Research Assistant
+  * The Hong Kong University of Science and Technology
+  * Project: Peroviskite Solar Cells
+
+* 2016-2018: Undergraduate Research Assistant
+  * Xi'an Jiaotong University
+  * Projects: 1) Heat transfer optimization simulation
+  *           2) Droplets coalescence in microfluidic channels
   
 Skills
 ======
 * Skill 1
 * Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
 * Skill 3
 
 Publications
@@ -56,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Professional development co-chair of MEGAWomen@MIT, 2021-2022
