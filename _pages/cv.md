@@ -20,7 +20,7 @@ Work experience
 ======
 * 2019-present: Graduate Research Assistant
   * Massachusetts Institute of Technology
-  * Project: From physics to biological functions: Spatiotemporal behaviors in multicellular systems
+  * Project: From physics to biological functions: Spatiotemporal behaviors in 3D multicellular systems
 
 * Summer 2017: Undergraduate Research Assistant
   * The Hong Kong University of Science and Technology
