@@ -8,13 +8,11 @@ redirect_from:
   - /markdown.html
 ---
 
-[Google Scholar](https://scholar.google.com/citations?user=_Vr6LegAAAAJ&hl=en})  <br/>
+[Google Scholar](https://scholar.google.com/citations?user=_Vr6LegAAAAJ&hl=en})  💡 <br/>
 Publications in reversed chronological order
 
-<span style="color:green">
-2022 <br/>
-</span>
 
+2022 <br/>
 **Collective curvature sensing and fluidity in three-dimensional multicellular systems** <br/>
 **Wenhui Tang**, Amit Das, Adrian F Pegoraro, Yu Long Han, Jessie Huang, David A Roberts, Haiqian Yang, Jeffrey J Fredberg, Darrell N Kotton, Dapeng Bi, Ming Guo <br/>
 *Nature Physics* 2022 <br/>
