@@ -23,7 +23,7 @@ Satish Kumar Gupta, Kyle R Lennon, Mary A Joens, Hari Bandi, Martijn Van Galen, 
 
 **Configurational fingerprints of multicellular living systems** <br/>
 Haiqian Yang, Adrian F Pegoraro, Yulong Han, **Wenhui Tang**, Rohan Abeyaratne, Dapeng Bi, Ming Guo <br/>
-*Proceeding of National Aacademy of Science* 2021 <br/>
+*Proceedings of the National Academy of Sciences* 2021 <br/>
 [Download PDF](https://tang-wenhui.github.io/files/paper3)  [HTML](https://www.pnas.org/doi/abs/10.1073/pnas.2109168118)
 
 **The cell as matter: Connecting molecular biology to cellular functions** <br/>
