@@ -8,7 +8,7 @@ redirect_from:
   - /markdown.html
 ---
 
-[Google Scholar](https://scholar.google.com/citations?user=_Vr6LegAAAAJ&hl=en})  💡 <br/>
+[Google Scholar](https://scholar.google.com/citations?user=_Vr6LegAAAAJ&hl=en})  📖 <br/>
 Publications in reversed chronological order
 
 
