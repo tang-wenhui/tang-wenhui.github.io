@@ -8,7 +8,7 @@ redirect_from:
   - "/nmp.html"
 ---
 
-Here are some projects that I am currently working on 💭 <br\>
+Here are some projects that I am currently working on 💭 <br/>
 (This page is currently under construction)
 
 ### Collective curvature sensing in 3D multicellular systems
