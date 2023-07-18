@@ -18,11 +18,16 @@ I am currently a PhD student at Mechanical Engineering, MIT. My research focuses
 
 Research Interests 
 ----
-1. Collective curvature sensing in 3D multicellular systems
-2. Cell packing and self-organization and their relationship with development and maturation
-3. Multicellular flow analysis in collective cell migration
-4. Cell-matrix interaction during development and differentiation
-5. Temporal behavior in oscillary epithelia
+* Collective curvature sensing in 3D multicellular systems
+* Cell packing and self-organization and their relationship with development and maturation
+* Multicellular flow analysis in collective cell migration
+* Cell-matrix interaction during development and differentiation
+* Temporal behavior in oscillary epithelia
+
+
+News
+----
+Stay tuned!
 
 
 
