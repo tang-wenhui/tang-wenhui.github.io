@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my homepage :deciduous_tree::sparkles:"
+title: "Welcome to my homepage!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,7 +12,7 @@ I am currently a PhD student at Mechanical Engineering, MIT. My research focuses
 
 
 
-Research Interests :bulb:
+Research Interests 
 ----
 1. Collective curvature sensing in 3D multicellular systems
 2. Cell packing and self-organization and their relationship with development and maturation
