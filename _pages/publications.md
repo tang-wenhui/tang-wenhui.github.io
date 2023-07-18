@@ -7,6 +7,5 @@ redirect_from:
   - "/publications/"
 ---
 
-[Google Scholar]{https://scholar.google.com/citations?user=_Vr6LegAAAAJ&hl=en}
-
-
+[Google Scholar]{https://scholar.google.com/citations?user=_Vr6LegAAAAJ&hl=en}  <br/>
+Publications in reversed chronological order.
