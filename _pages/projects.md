@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Projects"
+permalink: /projects/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,27 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Collective curvature sensing in 3D multicellular systems
 ======
-* Ph.D in Mechanical Engineering, MIT, 2024 (expected)
-* M.S. in Mechanical Engineering, MIT, 2020
-* B.Eng. in Xi'an Jiaotong University, 2018
+Collective cellular migration has been widely observed in embryonic development1,2,3, wound healing4,5 and tumour invasion6,7. From the perspectives of both biophysics and signalling, collective cellular migration8,9,10,11 and the associated issues of packing geometry12,13,14,15 and cell jamming and unjamming16,17,18,19,20,21 on two-dimensional (2D) flat surfaces have been widely explored. For example, epithelial cells growing on flat substrates approach a jamming transition during maturation, exhibiting an increasing velocity correlation length9, decreasing cell speed9,22 and decreasing cell aspect ratio23. In contrast, most biological structures, such as alveoli, bronchi and intestines, are naturally curved in three dimensions. Even for inert materials, it is known that curvature fundamentally changes basic processes such as crystallization24,25, yet it remains unclear to what extent the cellular collective responds to curvature.
 
 
-Work experience
+Cell packing and self-organization and their relationship with development and maturation
 ======
-* 2019-present: Graduate Research Assistant
-  * Massachusetts Institute of Technology
-  * Project: From physics to biological functions: Spatiotemporal behaviors in 3D multicellular systems
+Within curved epithelia, cells arrange differently to form structures and perform functions during development and maturation. These arrangements can be affected by geometry, biochemical tracers, as well as mechanical perturbations. However, the fundamental mechanisms of how local packing of cells is regulated to form these curved epithelial architectures is unclear. Furthermore, how packing evolves during growth, and whether this physical picture of how cells self-coordinate has any correlation with higher level biological functions such as maturation are totally unknown. 
 
-* Summer 2017: Undergraduate Research Assistant
-  * The Hong Kong University of Science and Technology
-  * Project: Peroviskite solar cells
 
-* 2016-2018: Undergraduate Research Assistant
-  * Xi'an Jiaotong University
-  * Projects: 1) Heat transfer optimization simulation 2) Droplets coalescence in microfluidic channels
+Multicellular flow analysis in collective cell migration
+======
+We decompose the velocity field into divergence, curl, and shear.
+
+Cell-matrix interaction during development and differentiation
+======
   
-Service and leadership
+Temporal behavior in oscillary epithelia
 ======
-* Professional development co-chair of MEGAWomen@MIT, 2021-2022
+Collective cell migration presents a promising field for the application of non-equilibrium physics, exposing a variety of phenomena including pattern formation, glassy dynamics, and active turbulence. The underlying physics offers a fresh viewpoint for understanding structural-functional properties of epithelia. Despite numerous studies on the spatial patterns of cell migration, the temporal dynamics have been largely overlooked. In this correspondence, we present our findings on surprisingly large-scale oscillatory patterns in epithelial collectives. Furthermore, the velocity divergence dynamics in a developing epithelium evolves with density increase and the jamming transition. Additionally, we demonstrate progressively increasing phase persistence and fewer defects in the breast cancer model systems as malignancy levels increases. Such temporal analysis provides a novel approach to examine higher-level biological functions, and can serve as a indicator for distinguishing healthy and diseased tissues. 
+
