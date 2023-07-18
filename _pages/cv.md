@@ -21,9 +21,9 @@ redirect_from:
 * Jan 2023 &nbsp;&nbsp;&nbsp; GRC Directed Cell Migration, *Selected Talk + Poster*, Galveston
 * Dec 2022 &nbsp;&nbsp;&nbsp; 93th NECF workshop, *Presentation*, Harvard
 * May 2022 &nbsp;&nbsp;&nbsp; MIT MCELS meeting, *Poster*, MIT
-* Mar 2022 &nbsp;&nbsp;&nbsp; APS March Meeting, *Virtual Presentation*, Chicago
 * April 2022 &nbsp;&nbsp;&nbsp; MCELS Keystone meeting, *Virtual Poster*, Keystone
-* May 2022 &nbsp;&nbsp;&nbsp; UMass summer school on Complex Fluids and Soft Solids, *Virtual Presentation*
+* Mar 2022 &nbsp;&nbsp;&nbsp; APS March Meeting, *Virtual Presentation*, Chicago
+* May 2020 &nbsp;&nbsp;&nbsp; UMass summer school on Complex Fluids and Soft Solids, *Virtual Presentation*
 * Oct 2019 &nbsp;&nbsp;&nbsp; MIT Biophysics worhshop, *Poster*, Cap Cod
   
 ## Service and leadership
