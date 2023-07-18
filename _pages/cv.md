@@ -15,7 +15,7 @@ redirect_from:
 * B.Eng. in Xi'an Jiaotong University, 2018
 
 ## Activities
-* June 2023 &nbsp;&nbsp;&nbsp; SB3C, *Poster*, Vail
+* June 2023 &nbsp;&nbsp;&nbsp; SB3C summer meeting, *Poster*, Vail
 * May 2023 &nbsp;&nbsp;&nbsp; De Florez competition, *Poster*, MIT
 * Mar 2023 &nbsp;&nbsp;&nbsp; APS March Meeting, *Presentation*, Las Vegas
 * Jan 2023 &nbsp;&nbsp;&nbsp; GRC Directed Cell Migration, *Selected Talk + Poster*, Galveston
