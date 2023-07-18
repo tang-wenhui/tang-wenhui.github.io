@@ -8,7 +8,7 @@ redirect_from:
   - "/nmp.html"
 ---
 
-Here are some projects that I am currently working on :)
+Here are some projects that I am currently working on 💭
 
 ### Collective curvature sensing in 3D multicellular systems
 Most biological structures, such as alveoli, bronchi and intestines, are naturally curved in 3D. Even for inert materials, it is known that curvature fundamentally changes basic processes such as crystallization, yet it remains unclear to what extent the cellular collective responds to curvature.
