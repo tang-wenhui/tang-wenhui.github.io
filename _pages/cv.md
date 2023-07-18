@@ -9,15 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 * Ph.D in Mechanical Engineering, MIT, 2024 (expected)
 * M.S. in Mechanical Engineering, MIT, 2020
 * B.Eng. in Xi'an Jiaotong University, 2018
 
 
-Work experience
-======
+## Work experience
 * 2019-present: Graduate Research Assistant
   * Massachusetts Institute of Technology
   * Project: From physics to biological functions: Spatiotemporal behaviors in 3D multicellular systems
@@ -30,6 +28,5 @@ Work experience
   * Xi'an Jiaotong University
   * Projects: 1) Heat transfer optimization simulation 2) Droplets coalescence in microfluidic channels
   
-Service and leadership
-======
+## Service and leadership
 * Professional development co-chair of MEGAWomen@MIT, 2021-2022
