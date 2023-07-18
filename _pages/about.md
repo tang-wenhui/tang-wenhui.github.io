@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+contact me: wenhuit@mit.edu
+
 I am currently a PhD student at Mechanical Engineering, MIT. My research focuses on spatiotemporal behaviors in 3D multicellular systems, and how these physical observations indicate higher level biological functions. My hobbies include photography, hiking, kayaking, cooking, and more to explore. This website gives a brief introduction to me 😊
 
 
