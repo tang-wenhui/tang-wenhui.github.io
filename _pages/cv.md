@@ -28,3 +28,6 @@ redirect_from:
   
 ## Service and leadership
 * Professional development co-chair of MEGAWomen@MIT, 2021-2022
+
+## Art
+I am passionate for art in life and science. See my photography [here](photogallery.wenhui)
