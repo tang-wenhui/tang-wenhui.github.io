@@ -11,7 +11,7 @@ redirect_from:
 [Google Scholar](https://scholar.google.com/citations?user=_Vr6LegAAAAJ&hl=en})  <br/>
 Publications in reversed chronological order
 
-<span style="color:grey">
+<span style="color:green">
 2022 <br/>
 </span>
 
