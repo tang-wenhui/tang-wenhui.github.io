@@ -31,7 +31,7 @@ We decompose the velocity field into divergence, curl, and shear to study the fl
 <br/>
 <br/>
   
-## Temporal behavior in oscillary epithelia
+## Temporal oscillation within epithelia
 Despite numerous studies on the spatial patterns of cell migration, the temporal dynamics have been largely overlooked. I am interested in studying oscillatory patterns and the corresponding "waves" within epithelia. Such temporal analysis provides a novel approach to examine higher-level biological functions, and can serve as a indicator for distinguishing healthy and diseased tissues. 
 <br/>
 
