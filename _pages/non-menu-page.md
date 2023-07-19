@@ -27,7 +27,7 @@ We decompose the velocity field into divergence, curl, and shear to study the fl
 <br/>
 <br/>
 
-## Cell-matrix interaction during development and differentiation
+## Cell-matrix interaction in intestinal morphogenesis
 <br/>
 <br/>
   
