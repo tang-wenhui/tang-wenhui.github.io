@@ -17,7 +17,7 @@ Most biological structures, such as alveoli, bronchi and intestines, are natural
 <br/>
 <br/>
 
-## Cell packing and self-organization and their relationship with development and maturation
+## Cells self-organization during development and maturation
 Within curved epithelia, cells arrange differently to form structures and perform functions during development and maturation. These arrangements can be affected by geometry, biochemical tracers, as well as mechanical perturbations. I am interested to know how packing evolves during growth, and whether this physical picture of how cells self-coordinate has any correlation with higher level biological functions such as maturation. 
 <br/>
 <br/>
