@@ -17,7 +17,7 @@ Here are some projects that I am currently working on 💭 <br/>
 
 
 ## Collective curvature sensing in 3D multicellular systems
-![Curvature](cover1_without_title.jpg = 100x80)
+![Curvature](cover1_without_title.jpg)
 <br/>
 <br/>
 
