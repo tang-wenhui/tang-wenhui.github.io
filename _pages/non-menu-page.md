@@ -11,11 +11,13 @@ redirect_from:
 Here are some projects that I am currently working on 💭 <br/>
 (This page is currently under construction) <br/>
 <br/>
-![Word Cloud](wordcloud.png "Title")
 <br/>
+![Word Cloud](wordcloud.png "Title")
+
 
 
 ## Collective curvature sensing in 3D multicellular systems
+![Word Cloud](cover1_without_title.jpg "Title")
 <br/>
 <br/>
 
