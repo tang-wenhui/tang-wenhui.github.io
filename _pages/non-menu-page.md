@@ -11,19 +11,19 @@ redirect_from:
 Here are some projects that I am currently working on 💭 <br/>
 (This page is currently under construction) <br/>
 <br/>
+![Word Cloud](wordcloud.png "Title")
+<br/>
+
 
 ## Collective curvature sensing in 3D multicellular systems
-Most biological structures, such as alveoli, bronchi and intestines, are naturally curved in 3D. Even for inert materials, it is known that curvature fundamentally changes basic processes such as crystallization, yet it remains unclear to what extent the cellular collective responds to curvature.
 <br/>
 <br/>
 
-## Cells self-organization during development and maturation
-Within curved epithelia, cells arrange differently to form structures and perform functions during development and maturation. These arrangements can be affected by geometry, biochemical tracers, as well as mechanical perturbations. I am interested to know how packing evolves during growth, and whether this physical picture of how cells self-coordinate has any correlation with higher level biological functions such as maturation. 
+## Cells self-organization during development and maturation 
 <br/>
 <br/>
 
 ## Multicellular flow analysis in collective cell migration
-We decompose the velocity field into divergence, curl, and shear to study the flow behaviors in living biological systems.
 <br/>
 <br/>
 
@@ -32,6 +32,5 @@ We decompose the velocity field into divergence, curl, and shear to study the fl
 <br/>
   
 ## Temporal oscillation within epithelia
-Despite numerous studies on the spatial patterns of cell migration, the temporal dynamics have been largely overlooked. I am interested in studying oscillatory patterns and the corresponding "waves" within epithelia. Such temporal analysis provides a novel approach to examine higher-level biological functions, and can serve as a indicator for distinguishing healthy and diseased tissues. 
 <br/>
 
