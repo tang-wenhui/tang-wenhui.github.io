@@ -12,7 +12,7 @@ Here are some projects that I am currently working on 💭 <br/>
 (This page is currently under construction) <br/>
 <br/>
 <br/>
-![Word Cloud](wordcloud.png "Title")
+![Word Cloud](wordcloud.png)
 
 
 
