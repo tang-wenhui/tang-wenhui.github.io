@@ -16,17 +16,14 @@ Here are some projects that I am currently working on 💭 <br/>
 
 ## Collective curvature sensing and multicellular flow in 3D multicellular systems
 ![Curvature](cover1_without_title.jpg)
-<br/>
-<br/>
+
 
 ## Cells self-organization during development and maturation 
-<br/>
-<br/>
+
 
 ## Cell-matrix interaction in intestinal morphogenesis
-<br/>
-<br/>
+
   
 ## Temporal oscillation within epithelia
-<br/>
+
 
