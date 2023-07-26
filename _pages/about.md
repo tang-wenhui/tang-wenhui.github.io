@@ -18,16 +18,18 @@ I am currently a PhD student at Mechanical Engineering, MIT. My research focuses
 
 Research Interests 
 ----
-* Collective curvature sensing in 3D multicellular systems
-* Cell packing and self-organization and their relationship with development and maturation
+* If cells in 3D multicellular systems can sense the curvature they live on, and how?
+* How cells organize themselves in 3D multicellular systems to perform certain functions(such as morphogensis and maturation)?
 * Multicellular flow analysis in collective cell migration
-* Cell-matrix interaction during development and differentiation
+* How cells interact with ECM during development and differentiation?
 * Temporal behavior in oscillary epithelia
+* Epithelia origami to mimic brain sulci
+* Can neuron biophysical properties and collective talks indicate different cognitive functions?
 
 
 News
 ----
-Stay tuned!
+July 2023 I will attend the Lab Tales workshop at Princeton University. Look forward!
 
 
 
