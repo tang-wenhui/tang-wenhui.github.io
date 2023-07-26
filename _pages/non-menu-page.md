@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Here are some projects that I am currently working on 💭 <br/>
-(This page is currently under construction) <br/>
+(This page is currently under construction) 
 ![Word Cloud](wordcloud.png)
 
 
