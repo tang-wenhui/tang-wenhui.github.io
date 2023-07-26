@@ -18,6 +18,7 @@ I am currently a PhD student at Mechanical Engineering, MIT. My research focuses
 
 Research Interests 
 ----
+Right now I have a very broad research interests and it is still growing.
 * If cells in 3D multicellular systems can sense the curvature they live on, and how?
 * How cells organize themselves in 3D multicellular systems to perform certain functions(such as morphogensis and maturation)?
 * Multicellular flow analysis in collective cell migration
@@ -29,7 +30,7 @@ Research Interests
 
 News
 ----
-July 2023 I will attend the Lab Tales workshop at Princeton University. Look forward!
+*July 2023* I will attend the Lab Tales workshop at Princeton University. Look forward!
 
 
 
