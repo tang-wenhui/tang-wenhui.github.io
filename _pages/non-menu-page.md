@@ -13,11 +13,11 @@ redirect_from:
 <br/>
 **Some exciting & beautiful stories!** <br/>
 ![SFTPC](SFTPC.png)<br/>
-###### SFTPC as a maturation marker in human lung alveolospheres <br/>
-###### (Collaboration with Kotton Lab @BU) <br/>
+SFTPC as a maturation marker in human lung alveolospheres <br/>
+(Collaboration with Kotton Lab @BU) <br/>
 <br/>
 ![Packing](cover1_without_title.jpg) <br/>
-###### Multicellular flow field (divergence, curl, shear) and cell packing in growing alveolospheres<br/>
+Multicellular flow field (divergence, curl, shear) and cell packing in growing alveolospheres<br/>
 
 
 
