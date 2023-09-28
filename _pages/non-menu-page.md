@@ -8,7 +8,7 @@ redirect_from:
   - "/nmp.html"
 ---
 
-##### Here are a summary of the research projects I have been working on <br/>
+**Here are a summary of the research projects I have been working on** <br/>
 ![Word Cloud](wordcloud.png) <br/>
 <br/>
 **Some exciting & beautiful stories!** <br/>
