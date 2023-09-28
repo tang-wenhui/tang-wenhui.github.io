@@ -31,4 +31,4 @@ redirect_from:
 * Mentor in Broadening Engagement through Engineering at MIT(BEEAM) high school research program, 2020-2022
 
 ## Art
-* I am passionate for art in both *Life* and *Science*. See my photography [here 📸](https://www.instagram.com/photogallery.wenhui/)
+* I am passionate for art in both *Life* and *Science*. See my photography [here 📸](https://www.instagram.com/picpicup/)
