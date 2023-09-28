@@ -8,21 +8,11 @@ redirect_from:
   - "/nmp.html"
 ---
 
-Here are some projects that I am currently working on 💭 <br/>
-(This page is currently under construction) 
+Here are some research projects that I have been working on <br/>
 ![Word Cloud](wordcloud.png)
+![SFTPC](SFTPC.png)
 
 
 
-## Collective curvature sensing and multicellular flow in 3D multicellular systems
-
-
-## Cells self-organization during development and maturation 
-
-
-## Cell-matrix interaction in intestinal morphogenesis
-
-  
-## Temporal oscillation within epithelia
 
 
