@@ -12,8 +12,9 @@ Here are some research projects that I have been working on <br/>
 ![Word Cloud](wordcloud.png) <br/>
 <br/>
 ![SFTPC](SFTPC.png)<br/>
-<br/>
+SFTPC as a maturation marker in human lung alveolospheres (collaboration with Kotton Lab @BU)<br/>
 ![Packing](cover1_without_title.jpg) <br/>
+Multicellular flow field (divergence, curl, shear) and cell packing in growing alveolospheres<br/>
 
 
 
