@@ -28,10 +28,6 @@ Right now I have a very broad research interests and it is still growing.
 * Can neuron biophysical properties and collective talks indicate different cognitive functions?
 
 
-News
-----
-*July 2023* I will attend the Lab Tales workshop at Princeton University. Look forward!
-
 
 
 
