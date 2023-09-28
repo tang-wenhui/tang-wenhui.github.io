@@ -9,8 +9,11 @@ redirect_from:
 ---
 
 Here are some research projects that I have been working on <br/>
-![Word Cloud](wordcloud.png)
-![SFTPC](SFTPC.png)
+![Word Cloud](wordcloud.png) <br/>
+<br/>
+![SFTPC](SFTPC.png)<br/>
+<br/>
+![Packing](cover1_without_title.jpg) <br/>
 
 
 
