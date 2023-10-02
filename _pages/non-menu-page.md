@@ -16,7 +16,7 @@ redirect_from:
 SFTPC as a maturation marker in human lung alveolospheres <br/>
 (Collaboration with Kotton Lab @BU) <br/>
 <br/>
-![actinMDCK](actinMDCK.jpg) <br/>
+![ActinMDCK](ActinMDCK.jpg) <br/>
 Live actin staining in MDCK cells<br/>
 <br/>
 ![Packing](cover1_without_title.jpg) <br/>
