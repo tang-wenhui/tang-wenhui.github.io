@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 **Here are a summary of the research projects I have been working on** <br/>
-<img src="wordcloud.png" width="850" height="600"/><br/>
+<img src="wordcloud.png" width="800" height="400"/><br/>
 <br/>
 **Some exciting & beautiful stories!** <br/>
 <img src="https://github.com/tang-wenhui/tang-wenhui.github.io/blob/master/_pages/SFTPC.png"/><br/>
