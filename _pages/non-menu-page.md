@@ -24,7 +24,7 @@ Phase seperation using complexed Ginzburg-Landau simulation<br/>
 <br/>
 <p align="center">
 <img src="https://github.com/tang-wenhui/tang-wenhui.github.io/blob/master/_pages/cover1_without_title.jpg" width="450" height="550"/> <br/>
-[Multicellular flow field]([url](https://www.nature.com/articles/s41567-022-01747-0)) (divergence, curl, shear) and cell packing in growing alveolospheres<br/>
+[Multicellular flow field]((https://www.nature.com/articles/s41567-022-01747-0)) (divergence, curl, shear) and cell packing in growing alveolospheres<br/>
 </p> 
 
 
