@@ -14,6 +14,17 @@ redirect_from:
 * M.S. in Mechanical Engineering, MIT, 2020
 * B.Eng. in Xi'an Jiaotong University, 2018
 
+## Awards
+* 2023	MathWorks Engineering Fellowship, MIT School of Engineering
+* 2023	2nd Place in Graduate Science, MIT De Florez Poster Competition
+* 2023	Sontheimer Travel Award (1 of 5), MIT Mechanical Engineering 
+* 2022	Path of Professorship Workshop, MIT
+* 2022	Rising Star in Mechanical Engineering (1 of 32), Stanford University
+* 2022	MathWorks Engineering Fellowship, MIT School of Engineering
+* 2021	Keystone Travel Award, EBICS
+* 2020	MathWorks Engineering Fellowship, MIT School of Engineering
+* 2016-2018	National Fellowship of China (Top 2%)
+
 ## Activities
 * July 2023 &nbsp;&nbsp;&nbsp; Lab Tales, Princeton
 * June 2023 &nbsp;&nbsp;&nbsp; SB3C summer meeting, *Poster*, Vail
