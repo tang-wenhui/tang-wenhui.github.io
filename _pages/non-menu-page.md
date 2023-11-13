@@ -12,7 +12,7 @@ redirect_from:
 ![Word Cloud](wordcloud.png) <br/>
 <br/>
 **Some exciting & beautiful stories!** <br/>
-<img src="" width="450" height="450"/><br/>
+<img src="https://github.com/tang-wenhui/tang-wenhui.github.io/blob/master/_pages/SFTPC.png" width="550" height="400"/><br/>
 SFTPC as a maturation marker in human lung alveolospheres <br/>
 (Collaboration with Kotton Lab @BU) <br/>
 <br/>
