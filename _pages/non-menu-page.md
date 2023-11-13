@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 **Here are a summary of the research projects I have been working on** <br/>
-<img src="wordcloud.png" width="800" height="400"/><br/>
+<img src="wordcloud.png" width="1000" height="300"/><br/>
 <br/>
 **Some exciting & beautiful stories!** <br/>
-<img src="https://github.com/tang-wenhui/tang-wenhui.github.io/blob/master/_pages/SFTPC.png"/><br/>
+<img src="https://github.com/tang-wenhui/tang-wenhui.github.io/blob/master/_pages/SFTPC.png" width="650" height="400"/><br/>
 SFTPC as a maturation marker in human lung alveolospheres <br/>
 (Collaboration with Kotton Lab @BU) <br/>
 <br/>
