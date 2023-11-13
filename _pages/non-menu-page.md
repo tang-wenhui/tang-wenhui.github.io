@@ -16,8 +16,8 @@ redirect_from:
 SFTPC as a maturation marker in human lung alveolospheres <br/>
 (Collaboration with Kotton Lab @BU) <br/>
 <br/>
-![Phase seperation](https://github.com/tang-wenhui/tang-wenhui.github.io/blob/master/_pages/CGL2D_simulation-alpha5-beta0.5_noise0.005.gif) <br/>
-Phase seperation using complexed Ginzburg-Landau<br/>
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" /> <br/>
+Phase seperation using complexed Ginzburg-Landau simulation<br/>
 <br/>
 ![Packing](cover1_without_title.jpg) <br/>
 Multicellular flow field (divergence, curl, shear) and cell packing in growing alveolospheres<br/>
