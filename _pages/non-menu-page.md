@@ -13,17 +13,19 @@ redirect_from:
 <br/>
 **Some exciting & beautiful stories!** <br/>
 <p align="center">
-<img src="https://github.com/tang-wenhui/tang-wenhui.github.io/blob/master/_pages/SFTPC.png" width="650" height="450"/><br/>
+  <img src="https://github.com/tang-wenhui/tang-wenhui.github.io/blob/master/_pages/SFTPC.png" width="650" height="450"/><br/>
+  SFTPC as a maturation marker in human lung alveolospheres (Collaboration with Kotton Lab @BU) <br/> 
 </p>
-SFTPC as a maturation marker in human lung alveolospheres <br/>
-(Collaboration with Kotton Lab @BU) <br/>
 <br/>
+<p align="center">
 <img src="https://github.com/tang-wenhui/tang-wenhui.github.io/blob/master/_pages/CGL2D_simulation-alpha5-beta0.5_noise0.005.gif" width="450" height="450"/> <br/>
 Phase seperation using complexed Ginzburg-Landau simulation<br/>
+</p>  
 <br/>
+<p align="center">
 <img src="https://github.com/tang-wenhui/tang-wenhui.github.io/blob/master/_pages/cover1_without_title.jpg" width="450" height="550"/> <br/>
 Multicellular flow field (divergence, curl, shear) and cell packing in growing alveolospheres<br/>
-
+</p> 
 
 
 
