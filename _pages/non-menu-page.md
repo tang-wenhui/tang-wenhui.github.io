@@ -12,11 +12,11 @@ redirect_from:
 ![Word Cloud](wordcloud.png) <br/>
 <br/>
 **Some exciting & beautiful stories!** <br/>
-![SFTPC](SFTPC.png)<br/>
+<img src="" width="450" height="450"/><br/>
 SFTPC as a maturation marker in human lung alveolospheres <br/>
 (Collaboration with Kotton Lab @BU) <br/>
 <br/>
-<img src="https://github.com/tang-wenhui/tang-wenhui.github.io/blob/master/_pages/CGL2D_simulation-alpha5-beta0.5_noise0.005.gif" width="250" height="250"/> <br/>
+<img src="https://github.com/tang-wenhui/tang-wenhui.github.io/blob/master/_pages/CGL2D_simulation-alpha5-beta0.5_noise0.005.gif" width="450" height="450"/> <br/>
 Phase seperation using complexed Ginzburg-Landau simulation<br/>
 <br/>
 ![Packing](cover1_without_title.jpg) <br/>
