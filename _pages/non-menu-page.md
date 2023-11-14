@@ -16,7 +16,7 @@ redirect_from:
 SFTPC as a maturation marker in human lung alveolospheres (Collaboration with Kotton Lab @BU) <br/> 
 
 <br/>
-![simulation](CGL2D_simulation-alpha5-beta0.5_noise0.005.gif)<br/>
+![CGL2D_simulation-alpha5-beta0.5_noise0.005.gif](https://github.com/tang-wenhui/tang-wenhui.github.io/blob/master/_pages/CGL2D_simulation-alpha5-beta0.5_noise0.005.gif)<br/>
 Phase seperation using complexed Ginzburg-Landau simulation<br/>
 
 <br/>
