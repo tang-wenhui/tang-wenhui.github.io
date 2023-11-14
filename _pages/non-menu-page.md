@@ -13,12 +13,12 @@ redirect_from:
 <br/>
 **Some exciting & beautiful stories!** <br/>
 <p align="center">
-  <img src="SFTPC.png" width="650" height="450"/><br/>
+  <img src="SFTPC.png"/><br/>
   SFTPC as a maturation marker in human lung alveolospheres (Collaboration with [Kotton Lab](https://www.bumc.bu.edu/kottonlab/) @BU) <br/> 
 </p>
 <br/>
 <p align="center">
-<img src="CGL2D_simulation-alpha5-beta0.5_noise0.005.gif" width="450" height="450"/> <br/>
+<img src="CGL2D_simulation-alpha5-beta0.5_noise0.005.gif"/> <br/>
 Phase seperation using complexed Ginzburg-Landau simulation<br/>
 </p>  
 <br/>
