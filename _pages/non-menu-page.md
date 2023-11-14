@@ -12,15 +12,15 @@ redirect_from:
 ![xx](wordcloud.png)<br/>
 <br/>
 **Some exciting & beautiful stories!** <br/>
-  ![xx](img src="SFTPC.png")<br/>
+  ![xxx](SFTPC.png)<br/>
   SFTPC as a maturation marker in human lung alveolospheres (Collaboration with Kotton Lab @BU) <br/> 
 
 <br/>
-![xx](CGL2D_simulation-alpha5-beta0.5_noise0.005.gif) <br/>
+![xxxx](CGL2D_simulation-alpha5-beta0.5_noise0.005.gif) <br/>
 Phase seperation using complexed Ginzburg-Landau simulation<br/>
 
 <br/>
-![xxx](cover1_without_title.jpg) <br/>
+![xxxxx](cover1_without_title.jpg) <br/>
 Multicellular flow field and cell packing in growing alveolospheres<br/>
 
 
