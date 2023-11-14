@@ -12,8 +12,8 @@ redirect_from:
 ![xx](wordcloud.png)<br/>
 <br/>
 **Some exciting & beautiful stories!** <br/>
-  ![xxx](SFTPC.png)<br/>
-  SFTPC as a maturation marker in human lung alveolospheres (Collaboration with Kotton Lab @BU) <br/> 
+![xxx](SFTPC.png)<br/>
+SFTPC as a maturation marker in human lung alveolospheres (Collaboration with Kotton Lab @BU) <br/> 
 
 <br/>
 ![xxxx](CGL2D_simulation-alpha5-beta0.5_noise0.005.gif) <br/>
