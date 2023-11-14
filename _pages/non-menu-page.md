@@ -23,6 +23,8 @@ Phase seperation using complexed Ginzburg-Landau simulation<br/>
 ![aa](cover1_without_title.jpg)<br/>
 Multicellular flow field and cell packing in growing alveolospheres<br/>
 
-
+<br/>
+![gif2](Merged.gif)<br/>
+<br/>
 
 
