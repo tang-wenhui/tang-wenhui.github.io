@@ -14,7 +14,7 @@ redirect_from:
 **Some exciting & beautiful stories!** <br/>
 <p align="center">
   <img src="SFTPC.png" width="650" height="450"/><br/>
-  SFTPC as a maturation marker in human lung alveolospheres (Collaboration with Kotton Lab @BU) <br/> 
+  SFTPC as a maturation marker in human lung alveolospheres (Collaboration with [Kotton Lab](https://www.bumc.bu.edu/kottonlab/) @BU) <br/> 
 </p>
 <br/>
 <p align="center">
