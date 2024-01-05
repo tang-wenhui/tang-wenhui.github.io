@@ -15,6 +15,7 @@ redirect_from:
 * B.Eng. in Xi'an Jiaotong University, 2018
 
 ## Awards
+* 2024  &nbsp;&nbsp;Emerging Soft Matter Excellence Award Finalists(1 of 12), American Physics Society
 * 2023	&nbsp;&nbsp;MathWorks Engineering Fellowship, MIT School of Engineering
 * 2023	&nbsp;&nbsp;2nd Place in Graduate Science, MIT De Florez Poster Competition
 * 2023	&nbsp;&nbsp;Sontheimer Travel Award (1 of 5), MIT Mechanical Engineering 
