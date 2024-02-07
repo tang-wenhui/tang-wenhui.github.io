@@ -16,16 +16,8 @@ I am currently a PhD student at [Mechanical Engineering](https://meche.mit.edu),
 
 
 
-Research Interests 
-----
-I have broad research interests in biology, physics, and mechanics
-* If cells in 3D multicellular systems can sense the curvature they live on, and how?
-* How cells organize themselves in 3D multicellular systems to perform certain functions (such as embryogensis and maturation)?
-* Multicellular flow analysis in collective cell migration
-* How cells stiffness and cell-ECM interaction change during mouse embryonic development and cell fate decision?
-* Temporal behavior in oscillary epithelia
-* Epithelia origami to mimic brain sulci
-* Can neuron biophysical properties and collective talks indicate different cognitive functions?
+I have broad research interests in biology, physics, and mechanics. And my motivation drives by my curiosity to science!
+
 
 
 
