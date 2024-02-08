@@ -27,6 +27,7 @@ redirect_from:
 * 2016-2018	&nbsp;&nbsp;National Fellowship of China (Top 2%)
 
 ## Activities
+* Dec 2023 &nbsp;&nbsp;&nbsp; ASCB meeting, *Poster*, Boston
 * July 2023 &nbsp;&nbsp;&nbsp; Lab Tales, Princeton
 * June 2023 &nbsp;&nbsp;&nbsp; SB3C summer meeting, *Poster*, Vail
 * May 2023 &nbsp;&nbsp;&nbsp; De Florez competition, *Poster*, MIT
