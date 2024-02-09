@@ -39,6 +39,9 @@ redirect_from:
 * Mar 2022 &nbsp;&nbsp;&nbsp; APS March Meeting, *Virtual Presentation*, Chicago
 * May 2020 &nbsp;&nbsp;&nbsp; UMass summer school on Complex Fluids and Soft Solids, *Virtual Presentation*
 * Oct 2019 &nbsp;&nbsp;&nbsp; MIT Biophysics worhshop, *Poster*, Cap Cod
+
+## Graduate courses learned
+* Statistic Thermodynamics, Fields Forces Flows in Bio Systems, Statistical Physics in Biology, Mechanics of Soft Materials, Solid Mechanics:Elasticity, Mechanics of Continuous Media, Active Matter,K inetics of Condensed Phase Transition, Computational Imaging, Fluid Mechanics, Desing of Living Systems, Mechanics of Solid Materials
   
 ## Service and leadership
 * Professional development co-chair of MEGAWomen@MIT, 2021-2022
