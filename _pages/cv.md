@@ -41,7 +41,10 @@ redirect_from:
 * Oct 2019 &nbsp;&nbsp;&nbsp; MIT Biophysics worhshop, *Poster*, Cap Cod
 
 ## Graduate courses learned
-* Statistic Thermodynamics, Fields Forces Flows in Bio Systems, Statistical Physics in Biology, Mechanics of Soft Materials, Solid Mechanics:Elasticity, Mechanics of Continuous Media, Active Matter,K inetics of Condensed Phase Transition, Computational Imaging, Fluid Mechanics, Desing of Living Systems, Mechanics of Solid Materials
+* Statistic Thermodynamics, Statistical Physics in Biology, Active Matter, Kinetics of Condensed Phase Transition
+* Fields Forces Flows in Bio Systems, Desing of Living Systems
+* Mechanics of Soft Materials, Solid Mechanics:Elasticity, Mechanics of Continuous Media, Fluid Mechanics, Mechanics of Solid Materials
+* Computational Imaging
   
 ## Service and leadership
 * Professional development co-chair of MEGAWomen@MIT, 2021-2022
