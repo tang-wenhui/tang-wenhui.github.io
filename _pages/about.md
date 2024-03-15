@@ -16,11 +16,11 @@ I am currently a PhD student at [Mechanical Engineering](https://meche.mit.edu),
 
 News
 ----
-*Mar 2024  I will give a talk in University of Chicago!
-*Mar 2024  I will give a talk in [Physics of Living Systems@MIT](https://sites.google.com/view/pls-short-talks/home)!
-*Mar 2024  I am selected as one of the twelve finalists for DSOFT Emerging Soft Matter Excellence (ESME) award by American Physics Society! See details [here](https://engage.aps.org/dsoft/honors/esme-award?_gl=1*tgc5yb*_ga*MjAwNTYxNDM4Mi4xNjY5NzYxMTk5*_ga_1CCM6YP0WF*MTcwOTA3MTg5MS4xMzAuMC4xNzA5MDcxODkxLjYwLjAuMA..).
-*Mar 2024  My design using previous [Nature Physics](https://www.nature.com/articles/s41567-022-01747-0) work won Division of Biological Physics design award, and was printed on t-shirts!
-*Jan 2024  I gave an invited talk in Caltech!
+* Mar 2024  I will give a talk in University of Chicago!
+* Mar 2024  I will give a talk in [Physics of Living Systems@MIT](https://sites.google.com/view/pls-short-talks/home)!
+* Mar 2024  I am selected as one of the twelve finalists for DSOFT Emerging Soft Matter Excellence (ESME) award by American Physics Society! See details [here](https://engage.aps.org/dsoft/honors/esme-award?_gl=1*tgc5yb*_ga*MjAwNTYxNDM4Mi4xNjY5NzYxMTk5*_ga_1CCM6YP0WF*MTcwOTA3MTg5MS4xMzAuMC4xNzA5MDcxODkxLjYwLjAuMA..).
+* Mar 2024  My design using previous [Nature Physics](https://www.nature.com/articles/s41567-022-01747-0) work won Division of Biological Physics design award, and was printed on t-shirts!
+* Jan 2024  I gave an invited talk in Caltech!
 
 
 
