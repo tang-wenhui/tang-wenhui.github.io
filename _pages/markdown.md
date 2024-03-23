@@ -14,7 +14,7 @@ Publications in reversed chronological order
 
 ## 2024
 **Nuclear-size regulated emergence of topological order on growing human lung alveolospheres** <br/>
-**Wenhui Tang**, Jessie Huang, Adrian F Pegoraro, James H Zhang, Yiwen Tang, Dapeng Bi, Darrell N Kotton, Ming Guo <br/>, *submitted*
+**Wenhui Tang**, Jessie Huang, Adrian F Pegoraro, James H Zhang, Yiwen Tang, Dapeng Bi, Darrell N Kotton, Ming Guo, *submitted* <br/>
 
 ## 2022 
 **Collective curvature sensing and fluidity in three-dimensional multicellular systems** <br/>
