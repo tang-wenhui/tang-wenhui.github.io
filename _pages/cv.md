@@ -27,6 +27,7 @@ redirect_from:
 * 2016-2018	&nbsp;&nbsp;National Fellowship of China (Top 2%)
 
 ## Activities
+* Mar 2024 &nbsp;&nbsp;&nbsp; APS march meeting, talk, Minneapolis
 * Dec 2023 &nbsp;&nbsp;&nbsp; ASCB meeting, *Poster*, Boston
 * July 2023 &nbsp;&nbsp;&nbsp; Lab Tales, Princeton
 * June 2023 &nbsp;&nbsp;&nbsp; SB3C summer meeting, *Poster*, Vail
