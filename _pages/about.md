@@ -18,7 +18,7 @@ News
 ----
 * **04/2024** &nbsp;&nbsp; I will give a talk at [Physics of Living Systems@MIT](https://sites.google.com/view/pls-short-talks/home).
 * **04/2024** &nbsp;&nbsp; I will give a talk at UCSF.
-* **03/2024** &nbsp;&nbsp; I will give a talk at University of Chicago.
+* **03/2024** &nbsp;&nbsp; I gave a talk at University of Chicago and visited Center for Living System.
 * **03/2024** &nbsp;&nbsp; I am selected as one of the twelve finalists for DSOFT Emerging Soft Matter Excellence (ESME) award by American Physics Society! See the highlight [here](https://engage.aps.org/dsoft/honors/esme-award?_gl=1*tgc5yb*_ga*MjAwNTYxNDM4Mi4xNjY5NzYxMTk5*_ga_1CCM6YP0WF*MTcwOTA3MTg5MS4xMzAuMC4xNzA5MDcxODkxLjYwLjAuMA..).
 * **03/2024** &nbsp;&nbsp; My design using previous [Nature Physics](https://www.nature.com/articles/s41567-022-01747-0) work won Division of Biological Physics design award, and was printed on t-shirts!
 * **01/2024** &nbsp;&nbsp; I gave a talk at Caltech.
