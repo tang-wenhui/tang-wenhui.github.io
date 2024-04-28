@@ -16,7 +16,8 @@ I am currently a PhD student at [Mechanical Engineering](https://meche.mit.edu),
 
 News in 2024
 ----
-* **04/2024** &nbsp;&nbsp; I gave a talk at Harvard [Squishy Physics Seminar](https://weitzlab.seas.harvard.edu/schedule/squishy-physics) sponsored by Weitz Lab.
+* **04/2024** &nbsp;&nbsp; I gave a talk at Harvard [Squishy Physics Seminar](https://weitzlab.seas.harvard.edu/schedule/squishy-physics).
+* **04/2024** &nbsp;&nbsp; I successfuly defended my PhD thesis!
 * **04/2024** &nbsp;&nbsp; I gave a talk at [Physics of Living Systems@MIT](https://sites.google.com/view/pls-short-talks/home).
 * **04/2024** &nbsp;&nbsp; I gave a talk at Caltech.
 * **04/2024** &nbsp;&nbsp; I gave a talk at UCSF.
