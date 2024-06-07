@@ -12,7 +12,7 @@ About me
 ----
 Contact: [wenhuit@mit.edu](wenhuit@mit.edu)
 
-I am currently a PhD student at [Mechanical Engineering](https://meche.mit.edu), MIT, working with Professor [Ming Guo](https://www.guolab.mit.edu). My PhD research focuses on spatiotemporal behaviors in 3D multicellular systems, and how these physical observations indicate higher level biological functions. I have broad research interests in biology, physics, and mechanics. And my motivation drives by my curiosity to science!
+I recently received my PhD degree at [Mechanical Engineering](https://meche.mit.edu), MIT, working with Professor [Ming Guo](https://www.guolab.mit.edu). My PhD research focuses on spatiotemporal behaviors in 3D multicellular systems, and how these physical observations indicate higher level biological functions. I have broad research interests in biology, physics, and mechanics. And my motivation drives by my curiosity to science!
 
 News in 2024
 ----
