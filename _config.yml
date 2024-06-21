@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Wenhui Tang"
 title_separator          : "-"
 name                     : &name "Wenhui Tang"
-description              : &description "PhD student@MIT"
+description              : &description "Incoming posdtdoc@HMS; Ph.D.@MIT"
 url                      : https://tang-wenhui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tang-wenhui.github.io"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Wenhui Tang"
-  avatar           : "profile.png"
-  bio              : "PhD student@MIT"
+  avatar           : "profile.jpg"
+  bio              : "Incoming posdtdoc@HMS; @MIT"
   location         : "Cambridge, MA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
