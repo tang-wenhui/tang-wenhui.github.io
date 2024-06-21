@@ -12,10 +12,11 @@ About me
 ----
 Contact: [wenhuit@mit.edu](wenhuit@mit.edu)
 
-I recently received my PhD degree at MIT [Mechanical Engineering](https://meche.mit.edu), under the advise of Professor [Ming Guo](https://www.guolab.mit.edu). My PhD research focuses on spatiotemporal behaviors in 3D multicellular systems, and how these physical observations indicate higher level biological functions. I have broad research interests in biology, physics, and mechanics. And my motivation drives by my curiosity to science!
+I received my PhD degree from MIT [Mechanical Engineering](https://meche.mit.edu) in May 2024, under the advise of Professor [Ming Guo](https://www.guolab.mit.edu). My PhD research focuses on spatiotemporal behaviors in 3D multicellular systems, and how these physical observations indicate higher level biological functions. I have broad research interests in biology, physics, and mechanics. And my motivation drives by my curiosity to science!
 
 News in 2024
 ----
+* **08/2024** &nbsp;&nbsp; I will join Dr. Olivier Pourquie's lab @Harvard Medical School & Brigham and Women Hospotal as a postdoctoral researcher in August!
 * **06/2024** &nbsp;&nbsp; I gave a talk at Harvard Medical School.
 * **04/2024** &nbsp;&nbsp; I gave a talk at Harvard [Squishy Physics Seminar](https://weitzlab.seas.harvard.edu/schedule/squishy-physics).
 * **04/2024** &nbsp;&nbsp; I successfuly defended my PhD thesis!
