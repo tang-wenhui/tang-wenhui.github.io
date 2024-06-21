@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* Ph.D in Mechanical Engineering, MIT, 2024 (expected)
+* Ph.D in Mechanical Engineering, MIT, 2024 
 * M.S. in Mechanical Engineering, MIT, 2020
 * B.Eng. in Xi'an Jiaotong University, 2018
 
