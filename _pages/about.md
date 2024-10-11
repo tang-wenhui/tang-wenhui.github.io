@@ -14,7 +14,7 @@ Contact: [wenhuit@mit.edu](wenhuit@mit.edu)
 
 I am currently a postdoc fellow at Harvard Medical School, working with Professor [Olivier Pourquié](https://hsci.harvard.edu/people/olivier-pourquié-phd). I received my PhD degree from MIT [Mechanical Engineering](https://meche.mit.edu) in May 2024, under the advise of Professor [Ming Guo](https://www.guolab.mit.edu). My research uncovers the spatial and temporal organization in complex multicellular systems from the biophysics and mechanics perspectives, and how these physical principles apply in tissue engineering and developmental biology!
 
-Features
+Feature
 ----
 Mathworks fellow in [2020](https://engineering.mit.edu/fellows/wenhui-tang/), [2021](https://engineering.mit.edu/fellows/wenhui-tang-2/), [2023](https://engineering.mit.edu/fellows/wenhui-tang-3/)
 
