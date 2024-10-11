@@ -12,7 +12,7 @@ About me
 ----
 Contact: [wenhuit@mit.edu](wenhuit@mit.edu)
 
-I am currently a postdoc fellow at Harvard Medical School & Brigham and Women's Hospital, working with Professor [Olivier Pourquié](https://hsci.harvard.edu/people/olivier-pourquié-phd). I received my PhD degree from MIT [Mechanical Engineering](https://meche.mit.edu) in May 2024, under the advise of Professor [Ming Guo](https://www.guolab.mit.edu). My PhD research focuses on spatiotemporal behaviors in 3D multicellular systems, and how these physical observations indicate higher level biological functions. 
+I am currently a postdoc fellow at Harvard Medical School & Brigham and Women's Hospital, working with Professor [Olivier Pourquié](https://hsci.harvard.edu/people/olivier-pourquié-phd). I received my PhD degree from MIT [Mechanical Engineering](https://meche.mit.edu) in May 2024, under the advise of Professor [Ming Guo](https://www.guolab.mit.edu). My research uncovers the spatial and temporal organization in complex multicellular systems from the biophysics and mechanics perspectives, and how these physical principles apply in tissue engineering and developmental biology.
 
 Features
 ----
