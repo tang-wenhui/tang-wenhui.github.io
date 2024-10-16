@@ -20,6 +20,7 @@ Mathworks fellow in [2020](https://engineering.mit.edu/fellows/wenhui-tang/), [2
 
 News in 2024
 ----
+* **09/2024** &nbsp;&nbsp; Glad to attend MIT Biophysics Retreat and gave a talk!
 * **06/2024** &nbsp;&nbsp; I gave a talk at Harvard Medical School.
 * **04/2024** &nbsp;&nbsp; I gave a talk at Harvard [Squishy Physics Seminar](https://weitzlab.seas.harvard.edu/schedule/squishy-physics).
 * **04/2024** &nbsp;&nbsp; I successfuly defended my PhD thesis!
