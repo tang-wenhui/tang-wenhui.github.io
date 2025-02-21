@@ -28,6 +28,7 @@ redirect_from:
 * 2016-2018	&nbsp;&nbsp;National Fellowship of China (Top 2%)
 
 ## Activities
+* Jan 2025 &nbsp;&nbsp;&nbsp; GRC Directed Cell Migration, talk, Lucca, Italy
 * Mar 2024 &nbsp;&nbsp;&nbsp; APS march meeting, talk, Minneapolis
 * Dec 2023 &nbsp;&nbsp;&nbsp; ASCB meeting, *Poster*, Boston
 * July 2023 &nbsp;&nbsp;&nbsp; Lab Tales, Princeton
