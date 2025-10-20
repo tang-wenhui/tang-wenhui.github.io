@@ -29,6 +29,7 @@ redirect_from:
 * 2016-2018	&nbsp;&nbsp;National Fellowship of China (Top 2%)
 
 ## Activities
+* Auguest 2025 &nbsp;&nbsp;&nbsp; GRC Soft Matter, poster, New Hempshire
 * Jan 2025 &nbsp;&nbsp;&nbsp; GRC Directed Cell Migration, talk, Lucca, Italy
 * Mar 2024 &nbsp;&nbsp;&nbsp; APS march meeting, talk, Minneapolis
 * Dec 2023 &nbsp;&nbsp;&nbsp; ASCB meeting, *Poster*, Boston
@@ -43,16 +44,9 @@ redirect_from:
 * Mar 2022 &nbsp;&nbsp;&nbsp; APS March Meeting, *Virtual Presentation*, Chicago
 * May 2020 &nbsp;&nbsp;&nbsp; UMass summer school on Complex Fluids and Soft Solids, *Virtual Presentation*
 * Oct 2019 &nbsp;&nbsp;&nbsp; MIT Biophysics worhshop, *Poster*, Cap Cod
-
-## Graduate courses learned
-* Statistic Thermodynamics, Statistical Physics in Biology, Active Matter, Kinetics of Condensed Phase Transition
-* Fields Forces Flows in Bio Systems, Desing of Living Systems
-* Mechanics of Soft Materials, Solid Mechanics:Elasticity, Mechanics of Continuous Media, Fluid Mechanics, Mechanics of Solid Materials
-* Computational Imaging
   
 ## Service and leadership
+* Session organizer for "Morphogenesis Focus Session", APS Globel Summit, 2026
 * Professional development co-chair of MEGAWomen@MIT, 2021-2022
 * Mentor in Broadening Engagement through Engineering at MIT(BEEAM) high school research program, 2020-2022
 
-## Art
-* I am passionate for art in both *Life* and *Science*. See my photography [here 📸](https://www.instagram.com/picpicup/)
