@@ -15,13 +15,14 @@ redirect_from:
 * B.Eng. in Xi'an Jiaotong University, 2018
 
 ## Awards
-* 2024	&nbsp;&nbsp;Rising Star in Mechanical Engineering (1 of 30), Carnegie Mellon University
-* 2024  &nbsp;&nbsp;Emerging Soft Matter Excellence Award Finalists(1 of 12), American Physics Society
+* 2025	&nbsp;&nbsp;Rising Star in Mechanical Engineering (1 of 30), Carnegie Mellon University
+* 2024	&nbsp;&nbsp;Rising Star in Mechanical Engineering, Carnegie Mellon University
+* 2024  &nbsp;&nbsp;Emerging Soft Matter Excellence Award Finalists, American Physics Society
 * 2023	&nbsp;&nbsp;MathWorks Engineering Fellowship, MIT School of Engineering
 * 2023	&nbsp;&nbsp;2nd Place in Graduate Science, MIT De Florez Poster Competition
-* 2023	&nbsp;&nbsp;Sontheimer Travel Award (1 of 5), MIT Mechanical Engineering 
+* 2023	&nbsp;&nbsp;Sontheimer Travel Award, MIT Mechanical Engineering 
 * 2022	&nbsp;&nbsp;Path of Professorship Workshop, MIT
-* 2022	&nbsp;&nbsp;Rising Star in Mechanical Engineering (1 of 32), Stanford University
+* 2022	&nbsp;&nbsp;Rising Star in Mechanical Engineering, Stanford University
 * 2022	&nbsp;&nbsp;MathWorks Engineering Fellowship, MIT School of Engineering
 * 2021	&nbsp;&nbsp;Keystone Travel Award, EBICS
 * 2020	&nbsp;&nbsp;MathWorks Engineering Fellowship, MIT School of Engineering
