@@ -2,7 +2,7 @@
 permalink: /markdown/
 title: "Publications"
 author_profile: true
-years: [2024,2022,2021,2020,2017]
+years: [2025, 2022,2021,2020,2017]
 redirect_from: 
   - /md/
   - /markdown.html
@@ -11,13 +11,16 @@ redirect_from:
 [Google Scholar](https://scholar.google.com/citations?user=_Vr6LegAAAAJ&hl=en})  📖 <br/>
 Publications in reversed chronological order
 
-
-## 2024
-**Nuclear-size regulated emergence of topological order on growing human lung alveolospheres** <br/>
-**Wenhui Tang**, Jessie Huang, Adrian F Pegoraro, James H Zhang, Yiwen Tang, Dapeng Bi, Darrell N Kotton, Ming Guo, *submitted* <br/>
-
+## 2025
 **Large-scale synchronized temporal oscillation in epithelia collecitves** <br/>
-**Wenhui Tang**, Adrian F Pegoraro, L Mahadevan, Ming Guo, *in preparation* <br/>
+**Wenhui Tang**, Mehrana Nejad, Adrian F Pegoraro, L Mahadevan, Ming Guo, *arxiv* <br/>
+[HTML](https://arxiv.org/pdf/2507.16772) <br/>
+<br/> &nbsp;&nbsp;
+
+**Nuclear-size regulated emergence of topological order on growing human lung alveolospheres** <br/>
+**Wenhui Tang**, Jessie Huang, Adrian F Pegoraro, James H Zhang, Yiwen Tang, Dapeng Bi, Darrell N Kotton, Ming Guo, *Physical Review X* <br/>
+[HTML](https://journals.aps.org/prx/pdf/10.1103/PhysRevX.15.011067) <br/>
+<br/> &nbsp;&nbsp;
 
 ## 2022 
 **Collective curvature sensing and fluidity in three-dimensional multicellular systems** <br/>
