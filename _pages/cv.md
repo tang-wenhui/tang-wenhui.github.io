@@ -46,7 +46,7 @@ redirect_from:
 * Oct 2019 &nbsp;&nbsp;&nbsp; MIT Biophysics worhshop, *Poster*, Cap Cod
   
 ## Service and leadership
-* Session organizer for "Morphogenesis Focus Session", APS Globel Summit, 2026
+* Session organizer for "Morphogenesis Focus Session", APS Global Summit, 2026
 * Professional development co-chair of MEGAWomen@MIT, 2021-2022
 * Mentor in Broadening Engagement through Engineering at MIT(BEEAM) high school research program, 2020-2022
 

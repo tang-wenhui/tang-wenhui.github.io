@@ -14,7 +14,7 @@ I am a second-year postdoc at Harvard Medical School, working with [Olivier Pour
 
 News
 ----
-* **10/2025** &nbsp;&nbsp; I built a lab website for [Pourquié lab] (https://pourquielab.github.io/website/). Check it out!
+* **10/2025** &nbsp;&nbsp; I built a lab website for Pourquié lab. Check it out [here]((https://pourquielab.github.io/website/))!
 * **09/2024** &nbsp;&nbsp; I started postdoc at Harvard Medical Schoool, working with [Olivier Pourquié](https://hsci.harvard.edu/people/olivier-pourquié-phd).
 * **09/2024** &nbsp;&nbsp; Glad to attend MIT Biophysics Retreat and gave a talk!
 * **04/2024** &nbsp;&nbsp; I gave a talk at Harvard [Squishy Physics Seminar](https://weitzlab.seas.harvard.edu/schedule/squishy-physics).
