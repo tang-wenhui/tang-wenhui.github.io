@@ -10,10 +10,11 @@ redirect_from:
 
 About me
 ----
-I am a postdoc fellow at Harvard Medical School, working with [Olivier Pourquié](https://hsci.harvard.edu/people/olivier-pourquié-phd). I received my PhD degree from MIT [Mechanical Engineering](https://meche.mit.edu) in May 2024, under the advise of [Ming Guo](https://www.guolab.mit.edu). My research uncovers the spatial and temporal organization in complex multicellular systems from the biophysics and mechanics perspectives, and how these physical principles apply in tissue engineering and developmental biology. Currently, I am working on the mechanics of somite pattern formation, and the dynamics of segmentation clock during human somitogenesis in vitro. 
+I am a second-year postdoc at Harvard Medical School, working with [Olivier Pourquié](https://hsci.harvard.edu/people/olivier-pourquié-phd). I received my PhD degree from MIT [Mechanical Engineering](https://meche.mit.edu) in May 2024, under the advise of [Ming Guo](https://www.guolab.mit.edu). My research uncovers the spatial and temporal organization in complex multicellular systems from the biophysics and mechanics perspectives, and how these physical principles apply in tissue engineering and developmental biology. Currently, I am investigating the mechanics of somite pattern formation, and uncovering the dynamics of segmentation clock synchronization at singel-cellular and multicellular level during human somitogenesis in vitro. 
 
 News
 ----
+* **10/2025** &nbsp;&nbsp; I built a lab website for [Pourquié lab] (https://pourquielab.github.io/website/). Check it out!
 * **09/2024** &nbsp;&nbsp; I started postdoc at Harvard Medical Schoool, working with [Olivier Pourquié](https://hsci.harvard.edu/people/olivier-pourquié-phd).
 * **09/2024** &nbsp;&nbsp; Glad to attend MIT Biophysics Retreat and gave a talk!
 * **04/2024** &nbsp;&nbsp; I gave a talk at Harvard [Squishy Physics Seminar](https://weitzlab.seas.harvard.edu/schedule/squishy-physics).
