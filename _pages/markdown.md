@@ -12,15 +12,15 @@ redirect_from:
 Publications in reversed chronological order
 
 ## 2025
-**3D tissue geometry guides development and diseases** <br/>
+## 3D tissue geometry guides development and diseases 
 **Wenhui Tang**, Yiwen Tang, Dapeng Bi, Ming Guo, *in revision* 2025<br/>
 
-**Large-scale synchronized temporal oscillation in epithelia collecitves** <br/>
+## Large-scale synchronized temporal oscillation in epithelia collecitves
 **Wenhui Tang**, Mehrana Nejad, Adrian F Pegoraro, L Mahadevan, Ming Guo, *arxiv* 2025<br/>
 [HTML](https://arxiv.org/pdf/2507.16772) <br/>
 <br/> &nbsp;&nbsp;
 
-**Nuclear-size regulated emergence of topological order on growing human lung alveolospheres** <br/>
+## Nuclear-size regulated emergence of topological order on growing human lung alveolospheres
 **Wenhui Tang**, Jessie Huang, Adrian F Pegoraro, James H Zhang, Yiwen Tang, Dapeng Bi, Darrell N Kotton, Ming Guo, *Physical Review X* 2025<br/>
 [NEWS](https://physics.aps.org/articles/v18/65) &nbsp;&nbsp; [HTML](https://journals.aps.org/prx/pdf/10.1103/PhysRevX.15.011067) <br/>
 <br/> &nbsp;&nbsp;
