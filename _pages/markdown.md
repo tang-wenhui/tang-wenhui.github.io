@@ -12,6 +12,9 @@ redirect_from:
 Publications in reversed chronological order
 
 ## 2025
+**3D tissue geometry guides development and diseases** <br/>
+**Wenhui Tang**, Yiwen Tang, Dapeng Bi, Ming Guo, *in revision* 2025<br/>
+
 **Large-scale synchronized temporal oscillation in epithelia collecitves** <br/>
 **Wenhui Tang**, Mehrana Nejad, Adrian F Pegoraro, L Mahadevan, Ming Guo, *arxiv* 2025<br/>
 [HTML](https://arxiv.org/pdf/2507.16772) <br/>
