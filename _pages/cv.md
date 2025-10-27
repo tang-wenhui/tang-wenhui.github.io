@@ -15,7 +15,7 @@ redirect_from:
 * B.Eng. in Xi'an Jiaotong University, 2018
 
 ## Awards
-* 2025	&nbsp;&nbsp;Rising Star in Mechanical Engineering (1 of 30), Carnegie Mellon University
+* 2025  &nbsp;&nbsp;Travel Award, GRC Directed Cell Migration
 * 2024	&nbsp;&nbsp;Rising Star in Mechanical Engineering, Carnegie Mellon University
 * 2024  &nbsp;&nbsp;Emerging Soft Matter Excellence Award Finalists, American Physics Society
 * 2023	&nbsp;&nbsp;MathWorks Engineering Fellowship, MIT School of Engineering
